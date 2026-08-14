@@ -10,7 +10,7 @@ I am building this repository step by step as I learn and implement different da
 ### Linked List
 
 * [x] Singly Linked List
-* [ ] Doubly Linked List
+* [x] Doubly Linked List
 * [ ] Circular Linked List
 
 ### Linear Data Structures
