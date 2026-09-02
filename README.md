@@ -11,7 +11,7 @@ I am building this repository step by step as I learn and implement different da
 
 * [x] Singly Linked List
 * [x] Doubly Linked List
-* [ ] Circular Linked List
+* [x] Circular Linked List
 
 ### Linear Data Structures
 
