@@ -15,8 +15,8 @@ I am building this repository step by step as I learn and implement different da
 
 ### Linear Data Structures
 
-* [ ] Stack
-* [ ] Queue
+* [x] Stack
+* [x] Queue
 * [ ] Circular Queue
 * [ ] Priority Queue
 * [ ] Deque
