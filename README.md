@@ -17,7 +17,7 @@ I am building this repository step by step as I learn and implement different da
 
 * [x] Stack
 * [x] Queue
-* [ ] Circular Queue
+* [x] Circular Queue
 * [ ] Priority Queue
 * [ ] Deque
 
