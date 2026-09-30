@@ -24,7 +24,7 @@ I am building this repository step by step as I learn and implement different da
 ### Non-Linear Data Structures
 
 * [ ] Binary Tree
-* [x] Binary Search Tree
+* [ ] Binary Search Tree
 * [ ] Heap
 * [ ] Graph
 * [ ] Hashing
@@ -34,7 +34,7 @@ I am building this repository step by step as I learn and implement different da
 ### Searching
 
 * [ ] Linear Search
-* [ ] Binary Search
+* [x] Binary Search
 
 ### Sorting
 
