@@ -33,7 +33,7 @@ I am building this repository step by step as I learn and implement different da
 
 ### Searching
 
-* [ ] Linear Search
+* [x] Linear Search
 * [x] Binary Search
 
 ### Sorting
