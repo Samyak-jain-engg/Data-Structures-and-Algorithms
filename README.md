@@ -39,7 +39,7 @@ I am building this repository step by step as I learn and implement different da
 ### Sorting
 
 * [ ] Bubble Sort
-* [ ] Selection Sort
+* [x] Selection Sort
 * [ ] Insertion Sort
 * [ ] Merge Sort
 * [ ] Quick Sort
