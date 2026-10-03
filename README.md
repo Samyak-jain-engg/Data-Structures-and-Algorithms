@@ -38,7 +38,7 @@ I am building this repository step by step as I learn and implement different da
 
 ### Sorting
 
-* [ ] Bubble Sort
+* [x] Bubble Sort
 * [x] Selection Sort
 * [ ] Insertion Sort
 * [ ] Merge Sort
