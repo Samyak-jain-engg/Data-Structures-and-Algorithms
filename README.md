@@ -40,7 +40,7 @@ I am building this repository step by step as I learn and implement different da
 
 * [x] Bubble Sort
 * [x] Selection Sort
-* [ ] Insertion Sort
+* [x] Insertion Sort
 * [ ] Merge Sort
 * [ ] Quick Sort
 
