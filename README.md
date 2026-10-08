@@ -42,7 +42,7 @@ I am building this repository step by step as I learn and implement different da
 * [x] Selection Sort
 * [x] Insertion Sort
 * [x] Merge Sort
-* [ ] Quick Sort
+* [x] Quick Sort
 
 ### Other Algorithms
 
