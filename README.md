@@ -47,7 +47,7 @@ I am building this repository step by step as I learn and implement different da
 ### Other Algorithms
 
 * [x] Recursion
-* [ ] Backtracking
+* [x] Backtracking
 * [ ] Dynamic Programming
 * [ ] Greedy Algorithms
 
