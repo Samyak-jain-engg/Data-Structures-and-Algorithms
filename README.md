@@ -48,7 +48,7 @@ I am building this repository step by step as I learn and implement different da
 
 * [x] Recursion
 * [x] Backtracking
-* [ ] Dynamic Programming
+* [x] Dynamic Programming
 * [ ] Greedy Algorithms
 
 ## Language
@@ -63,21 +63,16 @@ Data-Structures-and-Algorithms/
 ├── Linked List/
 │   └── Singly Linked List/
 │
-├── Doubly Linked List/
+├── Linear Data Structures/
+|    └── Stack/
 │
-├── Circular Linked List/
-│
-├── Stack/
-│
-├── Queue/
-│
-├── Tree/
-│
-├── Graph/
+├── Non-Linear Data Structures/
 │
 ├── Searching/
 │
 └── Sorting/
+│
+└── Other Algorithm/
 ```
 
 ## Progress
