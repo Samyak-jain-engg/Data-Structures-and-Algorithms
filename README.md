@@ -49,7 +49,7 @@ I am building this repository step by step as I learn and implement different da
 * [x] Recursion
 * [x] Backtracking
 * [x] Dynamic Programming
-* [ ] Greedy Algorithms
+* [x] Greedy Algorithms
 
 ## Language
 
