@@ -19,7 +19,7 @@ I am building this repository step by step as I learn and implement different da
 * [x] Queue
 * [x] Circular Queue
 * [x] Priority Queue
-* [ ] Deque
+* [x] Deque
 
 ### Non-Linear Data Structures
 
